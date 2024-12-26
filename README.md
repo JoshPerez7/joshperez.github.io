@@ -2,7 +2,7 @@
 
 ### Education 
 
-Mathematics, BSc
+Mathematics, BSc | University of Toronto
 
 ### Work Experience 
 Pension Benefits Analyst @ Ontario Teachers' Pension Plan
@@ -19,7 +19,7 @@ Research Specialist
 
 ### Projects
 
-- Customer Sales Data: https://github.com/JoshPerez7/Customer-Sales-Data.SQL
+- Customer Sales Data: [SQL Analysis](https://github.com/JoshPerez7/Customer-Sales-Data.SQL)
 
 ### About me
 - Hi, I’m @JoshPerez7
