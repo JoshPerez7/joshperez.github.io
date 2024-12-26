@@ -17,6 +17,11 @@ Research Specialist
 - Collected, edited and extracted data using SQL and Excel
 - Conducted in-depth research for corporate financial campaigns
 
+### Projects
+
+- Customer Sales Data: https://github.com/JoshPerez7/Customer-Sales-Data.SQL
+- 
+
 ### About me
 - Hi, I’m @JoshPerez7
 - 👀 I’m interested in Investing, Coding, Baseball, Volleyball, and the Future :)
