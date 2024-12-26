@@ -3,9 +3,7 @@
     <img src="linkedin/1670178666169.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
   </div>
   <div style="margin-left: 20px;">
-    <h1>Your Name</h1>
-  </div>
-</div>
+
 
 # Data Analyst
 
