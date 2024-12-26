@@ -20,6 +20,8 @@ Research Specialist
 ### Projects
 
 - Customer Sales Data: [SQL Analysis](https://github.com/JoshPerez7/Customer-Sales-Data.SQL)
+- Bank Customer Data: [SQL Analysis](https://github.com/JoshPerez7/Bank-Customer-Data.SQL)
+- Digital Fitness Analysis: [Python Analysis](https://github.com/JoshPerez7/Digital-Fitness-Market-Analysis.Python)
 
 ### About me
 - Hi, I’m @JoshPerez7
