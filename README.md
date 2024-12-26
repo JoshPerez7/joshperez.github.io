@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @JoshPerez7
-- 👀 I’m interested in Investing, Coding, Baseball, Volleyball, and the Future :)
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me jnpm07@gmail.com
-
 # Data Analyst
 
 ### Education 
@@ -22,6 +16,13 @@ Operations Analyst - Wealth Management @ Bank of Montreal
 Research Specialist
 - Collected, edited and extracted data using SQL and Excel
 - Conducted in-depth research for corporate financial campaigns
+
+### About me
+- Hi, I’m @JoshPerez7
+- 👀 I’m interested in Investing, Coding, Baseball, Volleyball, and the Future :)
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me jnpm07@gmail.com
 
 
 <!---
