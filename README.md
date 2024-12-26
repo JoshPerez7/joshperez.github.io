@@ -1,4 +1,4 @@
-[headshot](/linkedin/img/1670178666169.jpeg)
+![headshot](/linkedin/img/1670178666169.jpeg)
 
 # Data Analyst
 
