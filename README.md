@@ -20,7 +20,6 @@ Research Specialist
 ### Projects
 
 - Customer Sales Data: https://github.com/JoshPerez7/Customer-Sales-Data.SQL
-- 
 
 ### About me
 - Hi, I’m @JoshPerez7
