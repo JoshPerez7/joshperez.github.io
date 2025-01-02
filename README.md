@@ -1,10 +1,3 @@
-<div style="display: flex; align-items: center;">
-  <div style="flex-shrink: 0;">
-    <img src="linkedin/1670178666169.jpeg" alt="Profile Picture" style="width: 150px; border-radius: 50%;">
-  </div>
-  <div style="margin-left: 20px;">
-
-
 # Data Analyst
 
 ### Education 
