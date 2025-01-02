@@ -13,7 +13,7 @@ Operations Analyst - Wealth Management @ Bank of Montreal
 - Managed and processed various payment methods
 - Monitored corporate and commercial portfolios
 
-Research Specialist
+Research Specialist @ Kingsdale Advisors
 - Collected, edited and extracted data using SQL and Excel
 - Conducted in-depth research for corporate financial campaigns
 
