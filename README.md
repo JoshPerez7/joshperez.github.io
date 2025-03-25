@@ -11,7 +11,7 @@ Pension Benefits Analyst @ Ontario Teachers' Pension Plan
 
 Operations Analyst - Wealth Management @ Bank of Montreal
 - Managed and processed various payment methods
-- Monitored corporate and commercial portfolios
+- Reconciled various internal and external accounts
 
 Research Specialist @ Kingsdale Advisors
 - Collected, edited and extracted data using SQL and Excel
